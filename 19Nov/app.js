@@ -9,6 +9,8 @@ const {usuarios} = require('./bbddmockeada/dataUsers');
 //Middleware para que analice JSON de las solicitudes
 app.use(express.json());
 
+app.use
+
 //Para manejar solicitudes CORS usamos libreria npm i cors
 
 
